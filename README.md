@@ -7,6 +7,7 @@ To work on this project, fork it using Notebooks.ai with the following button:
 <a href="https://notebooks.ai/fork/rmotr-curriculum/pda-bike-store-sales-887c6207" target="_blank">
   <img src="https://user-images.githubusercontent.com/7065401/71195210-3c32dc80-226c-11ea-8fcc-b1d51f6270ab.png">
 </a
+<br>
 
 👆 Just click the button above.
 
