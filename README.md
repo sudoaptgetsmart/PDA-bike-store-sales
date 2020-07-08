@@ -1,5 +1,3 @@
-<img align="right" width="80" alt="rmotr.com" src="https://user-images.githubusercontent.com/7065401/45454218-80bee800-b6b9-11e8-97bb-bb5e7675f440.png">
-
 # Bike Store Sales
 
 <p align="center">
